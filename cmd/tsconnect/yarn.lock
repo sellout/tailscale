@@ -398,9 +398,9 @@ picocolors@^1.0.0:
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
-  integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.2.tgz#5a942915e26b372dc0f0e6753149a16e6b1c5601"
+  integrity sha512-V7+vQEJ06Z+c5tSye8S+nHUfI51xoXIXjHQ99cQtKUkQqqO1kO/KCJUfZXuB47h/YBlDhah2H3hdUGXn8ie0oA==
 
 pify@^2.3.0:
   version "2.3.0"
@@ -644,15 +644,15 @@ xterm-addon-fit@^0.5.0:
   resolved "https://registry.yarnpkg.com/xterm-addon-fit/-/xterm-addon-fit-0.5.0.tgz#2d51b983b786a97dcd6cde805e700c7f913bc596"
   integrity sha512-DsS9fqhXHacEmsPxBJZvfj2la30Iz9xk+UKjhQgnYNkrUIN5CYLbw7WEfz117c7+S86S/tpHPfvNxJsF5/G8wQ==
 
-xterm@5.0.0-beta.58:
-  version "5.0.0-beta.58"
-  resolved "https://registry.yarnpkg.com/xterm/-/xterm-5.0.0-beta.58.tgz#e3e96ab9fd24d006ec16cc9351a060cc79e67e80"
-  integrity sha512-gjg39oKdgUKful27+7I1hvSK51lu/LRhdimFhfZyMvdk0iATH0FAfzv1eAvBKWY2UBgYUfxhicTkanYioANdMw==
-
 xterm-addon-web-links@0.7.0-beta.6:
   version "0.7.0-beta.6"
   resolved "https://registry.yarnpkg.com/xterm-addon-web-links/-/xterm-addon-web-links-0.7.0-beta.6.tgz#ec63b681b4f0f0135fa039f53664f65fe9d9f43a"
   integrity sha512-nD/r/GchGTN4c9gAIVLWVoxExTzAUV7E9xZnwsvhuwI4CEE6yqO15ns8g2hdcUrsPyCbNEw05mIrkF6W5Yj8qA==
+
+xterm@5.0.0-beta.58:
+  version "5.0.0-beta.58"
+  resolved "https://registry.yarnpkg.com/xterm/-/xterm-5.0.0-beta.58.tgz#e3e96ab9fd24d006ec16cc9351a060cc79e67e80"
+  integrity sha512-gjg39oKdgUKful27+7I1hvSK51lu/LRhdimFhfZyMvdk0iATH0FAfzv1eAvBKWY2UBgYUfxhicTkanYioANdMw==
 
 y18n@^4.0.0:
   version "4.0.3"
